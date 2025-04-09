@@ -10,25 +10,23 @@ global.setting = {
 
 // Owner Information
 global.owner = [
-  ['6282389924037', 'Pinaa', true],
+  ['60202810046', 'Manz', true],
 ];
 
 // Bot Information
 global.info = {
-  nomerbot: '6283896757956',
-  pairingNumber: '6283896757956',
-  nameown: 'Pinaa',
-  nomerown: '6282389924037',
+  nomerbot: '37256179776',
+  pairingNumber: '37256179776',
+  nameown: 'Manz',
+  nomerown: '60102810046',
   token: 'VynaaAI4m2n1o', // Token harus diisi agar bot dapat berjalan
   packname: 'sticker by',
-  author: 'Vynaa Valerie',
-  namebot: 'Vynaa AI 10.21',
-  wm: 'made by Pinaa',
-  stickpack: 'YTB Vynaa Valerie',
-  stickauth: 'S U B S C R I B E',
-};
-
-global.wait = '_M O H O N - T U N G G U_'; // Pesan saat menunggu
+  author: 'Manz Valerie',
+  namebot: 'AI 10.21',
+  wm: 'made by Manz',
+  stickpack: 'Manz Valerie',
+  stickauth: 'S U B S C RI B E',
+  global.wait = '_M O H O N - T U N G G U_'; // Pesan saat menunggu
 global.maxwarn = 5;
 
 // URLs
@@ -60,7 +58,7 @@ global.payment = {
 
 // API Configuration
 global.api = {
-  btch: '_',
+  btch: 'NGnxEWfU',
   rose: '_',
 };
 global.APIs = {
@@ -68,7 +66,7 @@ global.APIs = {
   rose: 'https://api.itsrose.rest',
 };
 global.APIKeys = {
-  'https://api.botcahx.eu.org': '_',
+  'https://api.botcahx.eu.org': 'NGnxEWfU',
   'https://api.itsrose.rest': '_',
 };
 
